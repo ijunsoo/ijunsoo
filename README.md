@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=150&section=header&text=Hi%20I'm%20Junsu&fontColor=ffffff&fontSize=50&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=200&section=header&text=Hi%20I'm%20Junsu&fontColor=ffffff&fontSize=50&animation=fadeIn" />
 
 ### ✨ **Activity**
 **2024 멋쟁이사자처럼 12기 백엔드 아기사자** <br>
