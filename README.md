@@ -3,10 +3,10 @@
 
 ### ✨ **Activity**
 **2024 멋쟁이사자처럼 12기 백엔드 아기사자** <br>
-**2024~2025 P-Factory 창업동아리** <br>
 **2025 멋쟁이사자처럼 13기 백엔드 운영진** <br>
 **2025 FIRST LEGO League KOREA 의정부 Top Class팀 지도** <br>
 **2025 스파이크프라임 파이썬 강사** <br>
+**2025 P-Factory 창업동아리** <br>
 <br>
 
 ### 🛠 **Skills**
