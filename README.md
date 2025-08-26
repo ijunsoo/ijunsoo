@@ -32,3 +32,14 @@
 
 **🥇2025 멋쟁이사자처럼 13기 중앙해커톤 대상** <br>
 <img width="288" height="162" alt="PARK_HERE" src="https://github.com/user-attachments/assets/ac0e062e-44e8-47ac-bcb3-3eb13f566811" />
+
+<div style="display: flex; gap: 30px; align-items: center;">
+  <div>
+    <p><b>🥇2024 멋쟁이사자처럼 12기 교내해커톤 대상</b></p>
+    <img width="288" height="162" alt="쉽닥" src="https://github.com/user-attachments/assets/146a05d0-ec88-42d4-af26-49c18aaa261b" />
+  </div>
+  <div>
+    <p><b>🥇2025 멋쟁이사자처럼 13기 중앙해커톤 대상</b></p>
+    <img width="288" height="162" alt="PARK_HERE" src="https://github.com/user-attachments/assets/ac0e062e-44e8-47ac-bcb3-3eb13f566811" />
+  </div>
+</div>
